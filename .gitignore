@@ -1,0 +1,8 @@
+node_modules
+tsconfig.tsbuildinfo
+.next
+out
+.wrangler
+public/catalog.json
+agent-tools
+*.log
