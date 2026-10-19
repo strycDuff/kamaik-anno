@@ -1,0 +1,7 @@
+:HL["/kamaik-anno/_next/static/chunks/0vj2qsvo59iub.css","style"]
+:HL["/kamaik-anno/_next/static/media/292081311a6a8abc-s.p.3z1vcboutudqk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kamaik-anno/_next/static/media/47df9ba1c7236d3b-s.p.2adce56gso3ku.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kamaik-anno/_next/static/media/68d403cf9f2c68c5-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kamaik-anno/_next/static/media/e285ad1a914469f0-s.p.15241mr5-1s6i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"xp4lbDgljjiyXargmiyXn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
